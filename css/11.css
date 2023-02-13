@@ -121,5 +121,8 @@ footer > a {
     }
     #couser_item{
         flex: 100%;
-    }    
+    }  
+    #menu_text{
+        flex:100%;
+        text-align: center;
 }
